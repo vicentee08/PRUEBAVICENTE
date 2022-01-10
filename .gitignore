@@ -1,0 +1,10 @@
+#fichero para ignorar archivos de nuestro repositorio
+
+#copias de seguridad
+*.bak
+
+#archivos temporales
+*.tmp
+
+#clases compartidas
+*.class
